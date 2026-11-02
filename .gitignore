@@ -1,0 +1,14 @@
+# Dados coletados: contem logins e textos de pessoas (ver Metodologia).
+# Nao versionar ate a pseudonimizacao.
+dados_github/
+dados_processados/
+*.log
+
+__pycache__/
+.venv/
+artigo/Referencias/*.pdf
+artigo/imagens/
+codificacao/
+CLAUDE.md
+triagem/criterios_2022-10-29_2026-10-29.csv
+triagem/criterios_2024-10-29_2026-10-29.csv
