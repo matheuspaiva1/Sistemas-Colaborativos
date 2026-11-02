@@ -1,0 +1,19 @@
+﻿repo,C6_contexto_nacional,tipo,governanca,producao_conjunta,participantes_humanos,prs_integrados,excluido_na_etapa,observacao,selecionado
+agenda-tech-brasil/agenda-tech-brasil,True,lista colaborativa,comunidade,True,280,785,,,True
+guibranco/BancosBrasileiros,True,lista colaborativa,pessoa fisica,True,25,505,C: outro caso do mesmo tipo tem mais participantes,,False
+filipedeschamps/tabnews.com.br,True,plataforma web,comunidade,True,462,424,,,True
+OsProgramadores/op-website-hugo,True,plataforma web,comunidade,True,153,289,C: outro caso do mesmo tipo tem mais participantes,,False
+SouJunior/vagas-webapp,True,plataforma web,comunidade,True,39,187,C: outro caso do mesmo tipo tem mais participantes,,False
+portabilis/i-educar,True,plataforma web,empresa,True,74,186,A: governanca nao comunitaria,mantido pela empresa Portabilis,False
+BrasilAPI/BrasilAPI,True,API,comunidade,True,277,169,,,True
+okfn-brasil/querido-diario,True,dados abertos,ONG,True,134,293,,Open Knowledge Brasil,True
+basedosdados/sdk,True,dados abertos,ONG,True,53,195,C: outro caso do mesmo tipo tem mais participantes,,False
+gestaogovbr/Ro-dou,True,dados abertos,governo,True,32,201,A: governanca nao comunitaria,Ministerio da Gestao e da Inovacao,False
+OCA/l10n-brazil,True,biblioteca,empresas,True,101,2078,A: governanca nao comunitaria,~88% dos PRs integrados de funcionarios de 4 empresas integradoras,False
+brazilian-utils/python,True,biblioteca,comunidade,True,89,348,,Cumbuca Dev,True
+ZeusAutomacao/DFe.NET,True,biblioteca,empresa,True,129,145,A: governanca nao comunitaria,Zeus Automacao Comercial,False
+DesignLiquido/delegua,True,biblioteca,empresa,True,38,848,A: governanca nao comunitaria,Design Liquido,False
+OsProgramadores/op-desafios,True,desafios,comunidade,False,116,232,A: sem producao conjunta,cada participante envia solucao na propria pasta,False
+reactjs/pt-br.react.dev,True,traducao,comunidade,True,68,251,D: representante de tipo fora dos 5 com mais participantes,,False
+marcelscruz/public-apis,False,,,,848,849,C6,conteudo internacional,False
+baires/shouldideploy,False,,,,27,514,C6,conteudo internacional,False
